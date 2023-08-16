@@ -19,11 +19,11 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Aarzoo75/iPhone-14-Clone.git
+git clone https://github.com/Aarzoo75/iPhone-12-Clone.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd iPhone-14-Clone
+cd iPhone-12-Clone
 ```
 3. Open the `index.html` file in your preferred web browser.
 
