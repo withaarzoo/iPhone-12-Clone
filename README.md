@@ -29,7 +29,7 @@ cd iPhone-12-Clone
 
 ## Technologies Used
 * <b>HTML</b>: Markup language used to structure the content of the clone.
-* <b>CSS</b>: Stylesheets are used to design and style the clone to resemble the Phone 12 interface.
+* <b>CSS</b>: Stylesheets are used to design and style the clone to resemble the iPhone 12 interface.
 * <b>jQuery</b>: JavaScript library used to add dynamic behavior and interactivity to the clone.
 
 ## Contributing
