@@ -1,4 +1,4 @@
-# iPhone 14 Clone
+# iPhone 12 iOS 14 Clone
 This project is a simple representation of a Phone 14 clone built using HTML, CSS, and jQuery. It mimics the design and layout of the Phone 14 interface to showcase how these technologies can be used to create responsive and interactive web interfaces.
 
 ## Features
