@@ -28,9 +28,9 @@ cd iPhone-14-Clone
 3. Open the `index.html` file in your preferred web browser.
 
 ## Technologies Used
-* HTML: Markup language used to structure the content of the clone.
-* CSS: Stylesheets are used to design and style the clone to resemble the Phone 14 interface.
-* jQuery: JavaScript library used to add dynamic behavior and interactivity to the clone.
+* <b>HTML</b>: Markup language used to structure the content of the clone.
+* <b>CSS</b>: Stylesheets are used to design and style the clone to resemble the Phone 14 interface.
+* <b>jQuery</b>: JavaScript library used to add dynamic behavior and interactivity to the clone.
 
 ## Contributing
 Contributions to this project are welcome! Feel free to open issues or pull requests if you have any suggestions, improvements, or bug fixes.
