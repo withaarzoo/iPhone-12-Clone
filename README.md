@@ -1,5 +1,5 @@
 # iPhone 12 iOS 14 Clone
-This project is a simple representation of a Phone 14 clone built using HTML, CSS, and jQuery. It mimics the design and layout of the Phone 14 interface to showcase how these technologies can be used to create responsive and interactive web interfaces.
+This project is a simple representation of a Phone 12 clone built using HTML, CSS, and jQuery. It mimics the design and layout of the Phone 12 interface to showcase how these technologies can be used to create responsive and interactive web interfaces.
 
 ## Features
 <li>The hours shown are in real time.</li>
@@ -29,14 +29,14 @@ cd iPhone-12-Clone
 
 ## Technologies Used
 * <b>HTML</b>: Markup language used to structure the content of the clone.
-* <b>CSS</b>: Stylesheets are used to design and style the clone to resemble the Phone 14 interface.
+* <b>CSS</b>: Stylesheets are used to design and style the clone to resemble the Phone 12 interface.
 * <b>jQuery</b>: JavaScript library used to add dynamic behavior and interactivity to the clone.
 
 ## Contributing
 Contributions to this project are welcome! Feel free to open issues or pull requests if you have any suggestions, improvements, or bug fixes.
 
 ## Credits
-This project is inspired by the design of the iPhone 14 interface.
+This project is inspired by the design of the iPhone 12 interface.
 
 ## License
 This project is licensed under the MIT License.
